@@ -1,10 +1,10 @@
 ---
-title: "temp_website"
+title: "GenAI Reflection"
 ---
 
-This is a Quarto website.
+Reflection:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I use GenAI on my daily life for ease of convenience for simple and complex tasks. GenAI has taught me many programming tips and tricks along with code that I did not know existed. GenAI has helped with my studies by editing and correcting mistakes that I missed out. 
 
 ```{r}
 1 + 1
